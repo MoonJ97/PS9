@@ -1,0 +1,1 @@
+C:\Users\ansck\OneDrive\Desktop\SnakeHandout\GUI\GUI.Client\obj\Debug\net8.0\staticwebassets.build.json

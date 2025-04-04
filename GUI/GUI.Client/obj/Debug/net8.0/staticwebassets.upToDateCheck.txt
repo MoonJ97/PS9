@@ -1,0 +1,6 @@
+Pages\SnakeGUI.razor.js
+wwwroot\appsettings.Development.json
+wwwroot\appsettings.json
+wwwroot\images\Background.png
+wwwroot\images\grass.jpg
+wwwroot\images\WallSprite.png
